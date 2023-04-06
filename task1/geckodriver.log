@@ -416,3 +416,179 @@ JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, l
 JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
 [GFX1-]: Unrecognized feature VIDEO_OVERLAY
 1680800256836	Marionette	INFO	Stopped listening on port 40607
+1680800980373	geckodriver	INFO	Listening on 127.0.0.1:57433
+1680800980381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT7zQoQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680800983166	Marionette	INFO	Listening on port 45869
+1680800983221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680800983248	Marionette	ERROR	[18] No reply from Marionette:Register
+1680800985772	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2060451285, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2060451285, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2060451285 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2060451285 line 1 > eval, line 1: unreachable code after return statement
+1680801019901	Marionette	INFO	Stopped listening on port 33383
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1680801021371	Marionette	INFO	Stopped listening on port 45869
+1680801308717	geckodriver	INFO	Listening on 127.0.0.1:40291
+1680801308729	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCA0oqX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801311764	Marionette	INFO	Listening on port 42931
+1680801311883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801311912	Marionette	ERROR	[18] No reply from Marionette:Register
+1680801314969	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=968059900, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=968059900, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=968059900, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=968059900 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://shop.ee.co.uk/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=968059900 line 1 > eval, line 1: unreachable code after return statement
+1680801516121	geckodriver	INFO	Listening on 127.0.0.1:51961
+1680801516132	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41403" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu8gTMj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801519189	Marionette	INFO	Listening on port 34387
+1680801519295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801519336	Marionette	ERROR	[18] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1680801520810	Marionette	INFO	Stopped listening on port 42931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1680801523465	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+1680801571071	geckodriver	INFO	Listening on 127.0.0.1:51337
+1680801571079	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebGqO4I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801574563	Marionette	INFO	Listening on port 38873
+1680801574646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801574679	Marionette	ERROR	[18] No reply from Marionette:Register
+1680801576191	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1680801577289	Marionette	INFO	Stopped listening on port 34387
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+1680801605809	geckodriver	INFO	Listening on 127.0.0.1:35977
+1680801605817	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYQkltl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801608950	Marionette	INFO	Listening on port 41443
+1680801609059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801609084	Marionette	ERROR	[15] No reply from Marionette:Register
+1680801609635	Marionette	INFO	Stopped listening on port 38873
+1680801611444	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+1680801712387	geckodriver	INFO	Listening on 127.0.0.1:56241
+1680801712397	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "48731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileimQaHS"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801714997	Marionette	INFO	Listening on port 43029
+1680801715052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801715075	Marionette	ERROR	[15] No reply from Marionette:Register
+1680801716329	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1680801725318	Marionette	INFO	Stopped listening on port 41443
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+1680801818927	geckodriver	INFO	Listening on 127.0.0.1:58179
+1680801818941	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "34291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileueCCFc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801821614	Marionette	INFO	Listening on port 38743
+1680801821682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801821697	Marionette	ERROR	[15] No reply from Marionette:Register
+1680801822952	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+1680801861956	geckodriver	INFO	Listening on 127.0.0.1:37987
+1680801861965	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ss" "--remote-debugging-port" "60753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM5qYCg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1680801864625	Marionette	INFO	Listening on port 45129
+1680801864696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680801864717	Marionette	ERROR	[15] No reply from Marionette:Register
+1680801866053	Marionette	ERROR	[33] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-ENc69d733bf4824e17ac296b1064825816.min.js, line 10: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://shop.ee.co.uk/etc/designs/ee-web-2015/clientlibs_shop.min.js, line 50: ReferenceError: moment is not defined
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
