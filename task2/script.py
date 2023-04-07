@@ -1,6 +1,9 @@
+import csv
 import os
 import re
 import time
+from tokenize import String
+from typing import Dict, List
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -28,6 +31,15 @@ def screenshot(driver, imgURL):
   #uncomment the below line view each screenshots after saving
   #screenshot.show()
 
+class CSVfile:
+
+  def __init__(self, fileURL: String, headers: List):
+    self.file = open(fileURL, 'w')
+    self.writer = csv.DictWriter(self.file, fieldnames=headers)
+    self.writer.writeheader()
+  
+  def writeRow(self, row: Dict):
+    self.writer.writerow(row)
 
 def main():
 
@@ -71,12 +83,29 @@ def main():
 
   links = section_soup.find_all('a', {'href' : re.compile(r'^/mobile/phones/pay\-monthly\-contracts/\w+/')})
 
+  urlDict = {}
   for link in links:
-    print(link.get('href'))
+    urlDict[link.get('aria-label')] = link.get('href')
+    print(link.get('aria-label'),link.get('href'))
+  
+  keys = list(urlDict)
+  keys.sort()
+
+  urlDict_sorted = {i: urlDict[i] for i in keys}
+
+  csvfile = CSVfile('products.csv',headers=['id', 'name', 'url'])
+  id = 0
+  for (k,v) in urlDict_sorted.items():
+    id += 1
+    print(k,v)
+    csvfile.writeRow({
+      'id': id,
+      'name': k,
+      'url': v
+    })
     input()
   
-  pages = section_soup.find_all('a', {'href' : re.compile('^\?page=\d+')})
-  time.sleep(5000)
+  time.sleep(50)
   
 if __name__ == "__main__":
   main()
